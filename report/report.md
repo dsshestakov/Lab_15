@@ -50,19 +50,17 @@ Int write(int pipe_fd, void *area, int cnt);
 Возвращенный указатель ссылается на статическую строку с ошибкой, которая не должна быть изменена программой. Дальнейшие вызовы функции strerror перезапишут содержание этой строки. Интерпретированные сообщения об ошибках могут различаться, это зависит от платформы и компилятора.
 ## Приложение
 
-![](https://github.com/dsshestakov/Lab_12/blob/main/img/Снимок%20экрана%202021-05-28%20в%2016.59.10.png)
+![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.14.png)
                                     **Рис.1**
-![](https://github.com/dsshestakov/Lab_12/blob/main/img/Снимок%20экрана%202021-05-28%20в%2016.58.55.png)
+![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2019.28.40.png)
                                     **Рис.2**
-![](https://github.com/dsshestakov/Lab_12/blob/main/img/Снимок%20экрана%202021-05-28%20в%2017.05.20.png)
+![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.36.png)
                                     **Рис.3**
-![](https://github.com/dsshestakov/Lab_12/blob/main/img/Снимок%20экрана%202021-05-28%20в%2017.05.34.png)
+![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.44.png)
                                     **Рис.4**
-![](https://github.com/dsshestakov/Lab_12/blob/main/img/Снимок%20экрана%202021-05-28%20в%2017.05.05.png)
+![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.49.png)
                                     **Рис.5**
-![](https://github.com/dsshestakov/Lab_12/blob/main/img/Снимок%20экрана%202021-05-28%20в%2017.11.05.png)
+![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.34.56.png)
                                     **Рис.6**
-![](https://github.com/dsshestakov/Lab_12/blob/main/img/Снимок%20экрана%202021-05-28%20в%2017.16.22.png)
+![](https://github.com/dsshestakov/Lab_15/blob/main/img/Снимок%20экрана%202021-06-12%20в%2010.35.02.png)
                                     **Рис.7**
-![](https://github.com/dsshestakov/Lab_12/blob/main/img/Снимок%20экрана%202021-05-28%20в%2017.13.31.png)
-                                    **Рис.8**
